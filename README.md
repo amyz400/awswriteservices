@@ -1,4 +1,4 @@
-# awswriteservices
+# aws-write-services
 
 This project creates a test environment that simulates an Amazon SQS queue and an Amazon S3 bucket.  This configuration is useful for component tests and other manual testing without the overhead of creating a true Amazon SQS queue.  The SQS queue is backed by a JMS queue implement by the ElasticMq library.
 
